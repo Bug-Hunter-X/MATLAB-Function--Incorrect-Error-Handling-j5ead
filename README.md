@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MATLAB code:  incorrect error handling. The function `myFunction` fails to throw an error when given a negative input, instead returning -1. This can lead to unexpected behavior and difficult debugging. The solution shows how to correctly handle errors using the `error` function.
